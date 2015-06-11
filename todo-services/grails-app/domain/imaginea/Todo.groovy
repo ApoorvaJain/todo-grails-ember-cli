@@ -1,7 +1,7 @@
 package imaginea
-import grails.rest.*
+//import grails.rest.*
 
-@Resource(uri='/todo')
+//@Resource(uri='/todo')
 class Todo {
 
 	String title
